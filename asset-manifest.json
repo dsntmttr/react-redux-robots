@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-redux-robots/static/css/main.b41dcd5d.chunk.css",
+    "main.js": "/react-redux-robots/static/js/main.9d1730e0.chunk.js",
+    "main.js.map": "/react-redux-robots/static/js/main.9d1730e0.chunk.js.map",
+    "runtime-main.js": "/react-redux-robots/static/js/runtime-main.64fef0b7.js",
+    "runtime-main.js.map": "/react-redux-robots/static/js/runtime-main.64fef0b7.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/react-redux-robots/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.1b3183a6.chunk.js": "/react-redux-robots/static/js/2.1b3183a6.chunk.js",
+    "static/js/2.1b3183a6.chunk.js.map": "/react-redux-robots/static/js/2.1b3183a6.chunk.js.map",
+    "index.html": "/react-redux-robots/index.html",
+    "precache-manifest.1b0597c0faa90ee6893d3a610f10d2ff.js": "/react-redux-robots/precache-manifest.1b0597c0faa90ee6893d3a610f10d2ff.js",
+    "service-worker.js": "/react-redux-robots/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/react-redux-robots/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.b41dcd5d.chunk.css.map": "/react-redux-robots/static/css/main.b41dcd5d.chunk.css.map",
+    "static/media/App.css": "/react-redux-robots/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64fef0b7.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.1b3183a6.chunk.js",
+    "static/css/main.b41dcd5d.chunk.css",
+    "static/js/main.9d1730e0.chunk.js"
+  ]
+}
